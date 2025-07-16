@@ -15,6 +15,6 @@ The course focuses on building foundational data science skills through real-wor
 - Customer segmentation
 - Revenue prediction using personas
 - Functional programming & loops
-- Groupby, aggregation, filtering
+- Groupby, aggregation, filtering.
 
 ---
